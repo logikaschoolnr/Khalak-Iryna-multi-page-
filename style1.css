@@ -1,0 +1,32 @@
+body {
+  
+  background-color: #7D1204;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+header{
+
+    
+  
+
+background: url("images (4).jpg");
+width: 100vh;
+
+}
+
+@media(max-width:600px){
+    
+}/* --- 📱 ТВОЯ РОБОТА ПОЧИНАЄТЬСЯ ТУТ --- */
+/* Напиши медіазапит для екранів менше 600px */
+ 
+ form{
+    border: 10px solid #5E0505;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+    padding: 13px;
+    margin: 100px;
+    text-align: center;
+    font-size:18px;
+}
