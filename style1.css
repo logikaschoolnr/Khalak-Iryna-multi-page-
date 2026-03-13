@@ -23,6 +23,10 @@ body {
   justify-content: center;
   align-items: center;
   color: white;
+  max-width: 1000px; /* Максимальна ширина - 1000px */
+  margin: 0 auto;     /* Магія! Центрує блок по горизонталі */
+  padding: 40px 20px; /* Не забуваємо про внутрішні відступи */
+
 }
 
 .photo-strip {
@@ -54,4 +58,5 @@ body {
     font-size:18px;
 
 }
+
 
