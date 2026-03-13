@@ -25,6 +25,9 @@ body {
   color: white;
   
 
+  margin: 0 auto;     /* Магія! Центрує блок по горизонталі */
+  padding: 40px 20px; /* Не забуваємо про внутрішні відступи */
+
 }
 
 .photo-strip {
@@ -56,5 +59,6 @@ body {
     font-size:18px;
 
 }
+
 
 
