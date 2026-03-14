@@ -6,6 +6,11 @@
   align-items: center;
   color: white;
 }
+a{
+color: white;
+text-dicoration: none;
+font-size: 20px;
+}
 header{
 background-image: url("images (4).jpg");
     background-size: cover;     
